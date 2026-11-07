@@ -1,1 +1,2 @@
 # CollectionManagement
+A web-based collection management for streamlining payment, recording, and archiving process in the PTA Office of Iligan City East National High School. The system includes features such as generating payment receipts, tracking payment history, and accurately recording total payments of every transaction.
